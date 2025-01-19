@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PersonalDataCard</string>
+    <string name="text_name">Имя</string>
+    <string name="text_surname">Фамилия</string>
+    <string name="text_birth_date">Дата рождения \n(формат дд.мм.гггг)</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="hint_surname">Введите фамилию</string>
+    <string name="hint_birth_date">Введите дату рождения</string>
+    <string name="text_save">Сохранить</string>
+    <string name="name">Имя: %s</string>
+    <string name="surname">Фамилия: %s</string>
+    <string name="age">Возраст: %d</string>
+    <string name="before_next_birth_day">До следующего дня рождения: %1$d месяца(ев) и %2$d дня(ей)</string>
+    <string name="text_exit">Выход</string>
 </resources>
